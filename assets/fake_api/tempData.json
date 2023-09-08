@@ -1,0 +1,35 @@
+{
+  "user": {
+    "id": 2025,
+    "name": "Mohammed Annor",
+    "userName": "Mohammed",
+    "email": "Mohammed@email.com",
+    "password": "$2y$10$LZ9clC32AqP7oEpYO6hZ2.yHHpOMbWhGIZCtN74cjEELuODwIhnOq",
+    "userType": 0,
+    "address": {
+      "id": 20,
+      "country": "Spain",
+      "city": "Vergieshire",
+      "neighborhood": "3057 Lind View Suite 587"
+    },
+    "DistributionPoint": [
+      {
+        "id": 12,
+        "name": "fouh"
+      },
+      {
+        "id": 35,
+        "name": "Mukalla"
+      },
+      {
+        "id": 36,
+        "name": "Mukalla"
+      },
+      {
+        "id": 38,
+        "name": "Doan"
+      }
+    ]
+  },
+  "Access Token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI0IiwianRpIjoiN2Y2NjI5Yzk0M2VlMTIyODRmOTZhYjU1YzIwZDAzODQwNTczNjlkZDRkOGNhNmRhYzI0ZWQ0MjZlYmJhOWIxZjM4YWYzNDQ3ZWI0NWJmZmIiLCJpYXQiOjE2ODcxOTU5NDUuOTU4Mzk0LCJuYmYiOjE2ODcxOTU5NDUuOTU4NDE5LCJleHAiOjE3MTg4MTgzNDUuNzQ5MzU3LCJzdWIiOiIyMDI1Iiwic2NvcGVzIjpbXX0.uUJwaoYSjN5ZYTPCD5q2rMIrmS6fdf0Pj4EuZxIzUd-JJi4XuQiwCjKbwiJo8UndF17LfSGKFsfDT9ErIu4y9UD29I0j80wWwkuI_UhMCRFk_hueqtpS61XxmrXlbWAyF4oAqB7yKJPDTowu0a0rm3J1XUzA6BMA_-l1m3FU7Hq7f54E7otCm_SQ8wf8zqiT8Zym8VSDwYwAWspt6dMEE5PR7zSM47qbA2Zlk3moRRTKacKnNDdneIZTF193-ixlmUlKBmgAoA9Km_m1V3R9wB5k8grHEdeCZQ56jCQvnTyxj_r_T-wNMbaXr8OWR07xC9qxbf2dEDYwiEGgpcc1Rmrh1KuK-aCbQ9Dtcbue0Mn66Um1JJfo1e9k3iq9NNIDU0UR4b-mEWRCl6R6bhP2EPUaYoAdSpyikYgAhGmyf5Q8oAaK-53VgkpGjOb3MhXC99rNQhsd5hbuE6Vofnm_yNCMMN794IDm0nJOVBmlDmjniZwhxDSIPZZ-wLSJZuBA0pJj0W7suZ0OMU-KtoFChT_cXv1VBdxZVg6_RPpgGEPB-mKagfS1psHJT0Ydg9u2tQLGH7KVI-t8h0UffC6n_0hac9sMWJx7NrZ3HRrRIWjqpkJz_jFeJrbq0cNUgivFLC_RQmWVJ5bf3oO4GQ9KeXoI6zocz31qiRqdUT-bmGo"
+}

@@ -1,0 +1,127 @@
+{
+  "data": [
+    {
+      "id": 18,
+      "name": "fouh",
+      "creationDate": "2023-09-04 00:00:00",
+      "state": "0",
+      "note": "none",
+      "is_send": 1,
+      "Records": [
+        {
+          "id": 1,
+          "recipientName": "mohammed",
+          "recrptionDate": 96088,
+          "barcode": "585471",
+          "familyCount": 0,
+          "birthday": "1981-09-14",
+          "averageSalary": 739012,
+          "workFor": "Hettinger LLC",
+          "passportNum": 59,
+          "socialStatus": null,
+          "residentType": "Excepturi.",
+          "recordID": 21
+        },
+        {
+          "id": 2,
+          "recipientName": "sultan",
+          "recrptionDate": 23883432,
+          "barcode": "65135881",
+          "familyCount": 0,
+          "birthday": "2018-04-30",
+          "averageSalary": 456959000,
+          "workFor": "Paucek-Rempel",
+          "passportNum": 46880,
+          "socialStatus": null,
+          "residentType": "Beatae.",
+          "recordID": 22
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Riyadh",
+      "creationDate": "2023-06-02 14:21:08",
+      "state": "0",
+      "note": "none",
+      "is_send": 1,
+      "Records": [
+        {
+          "id": 3,
+          "recipientName": "mohammed",
+          "recrptionDate": 96088,
+          "barcode": "585471",
+          "familyCount": 0,
+          "birthday": "1981-09-14",
+          "averageSalary": 739012,
+          "workFor": "Hettinger LLC",
+          "passportNum": 59,
+          "socialStatus": null,
+          "residentType": "Excepturi.",
+          "recordID": 21
+        },
+        {
+          "id": 4,
+          "recipientName": "sultan",
+          "recrptionDate": 23883432,
+          "barcode": "65135881",
+          "familyCount": 0,
+          "birthday": "2018-04-30",
+          "averageSalary": 456959000,
+          "workFor": "Paucek-Rempel",
+          "passportNum": 46880,
+          "socialStatus": null,
+          "residentType": "Beatae.",
+          "recordID": 22
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Jeedah",
+      "creationDate": "2023-06-02 14:49:14",
+      "state": "0",
+      "note": "Test List",
+      "is_send": 1,
+      "Records": [
+        {
+          "id": 5,
+          "recipientName": "mohammed",
+          "recrptionDate": 96088,
+          "barcode": "585471",
+          "familyCount": 0,
+          "birthday": "1981-09-14",
+          "averageSalary": 739012,
+          "workFor": "Hettinger LLC",
+          "passportNum": 59,
+          "socialStatus": null,
+          "residentType": "Excepturi.",
+          "recordID": 21
+        },
+        {
+          "id": 6,
+          "recipientName": "sultan",
+          "recrptionDate": 23883432,
+          "barcode": "65135881",
+          "familyCount": 0,
+          "birthday": "2018-04-30",
+          "averageSalary": 456959000,
+          "workFor": "Paucek-Rempel",
+          "passportNum": 46880,
+          "socialStatus": null,
+          "residentType": "Beatae.",
+          "recordID": 22
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Maccah",
+      "creationDate": "2023-06-02 15:11:22",
+      "state": "0",
+      "note": "New List",
+      "is_send": 1,
+      "Records": []
+    }
+  ]
+}
